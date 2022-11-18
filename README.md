@@ -30,4 +30,4 @@
     kubectl config use-context cluster1
     
     
-  
+   export PATH=$HOME/.istioctl/bin:$PATH
